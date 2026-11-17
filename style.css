@@ -1,4 +1,7 @@
 body{
     background-image: url(token.webp);
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
